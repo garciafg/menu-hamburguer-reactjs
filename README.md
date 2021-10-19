@@ -28,4 +28,16 @@ Menú estilo hamburguer responsivo, pronto para usar em seus projetos. Também f
 
 Fábio Garcia
 
-garciafg@gmail.com - garciafg@yahoo.com
+## Fala comigo...
+<!-- hit [today / total] -->
+<div align=center>
+
+<!-- icons -->
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5524998832137&text=Conversar)
+[![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-garcia-9113b9222/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabio.garcia.5602)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garciafg@gmail.com)
+[![Yahoo Badge](https://img.shields.io/badge/Yahoo-1877f2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:garciafg@yahoo.com)
+
+</div>
