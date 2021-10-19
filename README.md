@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 
-Menú estilo hamburguer responsivo, pronto para usar em seus projetos. Também foi usado styled-components e react-router-dom para acessar as rotas pelo menu.
+Menú estilo hamburguer responsivo, pronto para usar em seus projetos. Também foi usado styled-components e react-router-dom.
 
 
 ### Prints
